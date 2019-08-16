@@ -1,0 +1,10 @@
+D:\VisualStudio2019\Projects\C#\EnvironmentVariables\bin\Debug\EnvironmentVariables.exe.config
+D:\VisualStudio2019\Projects\C#\EnvironmentVariables\bin\Debug\EnvironmentVariables.exe
+D:\VisualStudio2019\Projects\C#\EnvironmentVariables\bin\Debug\EnvironmentVariables.pdb
+D:\VisualStudio2019\Projects\C#\EnvironmentVariables\obj\Debug\EnvironmentVariables.csprojAssemblyReference.cache
+D:\VisualStudio2019\Projects\C#\EnvironmentVariables\obj\Debug\EnvironmentVariables.Form1.resources
+D:\VisualStudio2019\Projects\C#\EnvironmentVariables\obj\Debug\EnvironmentVariables.Properties.Resources.resources
+D:\VisualStudio2019\Projects\C#\EnvironmentVariables\obj\Debug\EnvironmentVariables.csproj.GenerateResource.cache
+D:\VisualStudio2019\Projects\C#\EnvironmentVariables\obj\Debug\EnvironmentVariables.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\Projects\C#\EnvironmentVariables\obj\Debug\EnvironmentVariables.exe
+D:\VisualStudio2019\Projects\C#\EnvironmentVariables\obj\Debug\EnvironmentVariables.pdb
